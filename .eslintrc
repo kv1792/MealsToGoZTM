@@ -1,0 +1,12 @@
+{
+    "plugins": ["prettier"],
+    "extends": "@react-native-community",
+    "rules": {
+        "react-native/no-inline-styles": 0,
+        "react-native/no-unused-styles": 2,
+        "no-unused-vars": 1,
+        "no-const-assign": 2,
+        "no-trailing-spaces": 1,
+        "semi":"off"
+    }
+}
